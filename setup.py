@@ -3,9 +3,10 @@ import os
 
 version = '0.3dev'
 
-setup(name='Products.enablesettrace',
+setup(name='Products.Ienablesettrace',
       version=version,
-      description="Allow import of pdb and ipdb in restricted code.",
+      description="Fork of Products.enablesettrace which also allows import "
+                  "of ipdb in restricted code.",
       long_description=open("README.txt").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
@@ -20,7 +21,7 @@ setup(name='Products.enablesettrace',
       keywords='',
       author='Mark van Lent',
       author_email='m.van.lent@zestsoftware.nl',
-      url='http://github.com/markvl/Products.enablesettrace',
+      url='http://github.com/markvl/Products.Ienablesettrace',
       license='ZPL 2.1',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['Products'],

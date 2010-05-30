@@ -4,7 +4,7 @@ Changelog
 0.3 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Changed name to Products.Ienablesettrace. [markvl]
 
 
 0.2 (2010-04-02)
