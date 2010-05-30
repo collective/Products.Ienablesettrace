@@ -4,7 +4,9 @@ Changelog
 0.3 (unreleased)
 ----------------
 
-- Changed name to Products.Ienablesettrace. [markvl]
+- Forked Products.enablesettrace version 0.2 and changed name to
+  Products.Ienablesettrace since the former will have the added inclusion
+  of ipdb removed in the next release. [markvl]
 
 
 0.2 (2010-04-02)
