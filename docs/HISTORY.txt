@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.3 (unreleased)
+1.0 (2010-05-30)
 ----------------
 
 - Forked Products.enablesettrace version 0.2 and changed name to
