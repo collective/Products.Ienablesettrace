@@ -7,7 +7,7 @@ of 'pdb' is unauthorized`` message, use this enablesettrace package.
 
 This package supports importing the ``pdb`` *and* ``ipdb`` module. It is a fork
 of the `Products.enablesettrace
-<http://pypi.python.org/pypi/Products.enablesettrace>`_ package.
+<https://pypi.org/project/Products.enablesettrace>`_ package.
 
 
 Installation
