@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = "1.1.dev0"
+version = "1.1.0"
 
 with open("README.rst") as myfile:
     readme = myfile.read()

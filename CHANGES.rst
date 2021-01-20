@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.1 (unreleased)
-----------------
+1.1.0 (2021-01-20)
+------------------
 
 - Note: this project is inactive.
 
