@@ -4,7 +4,7 @@ Changelog
 1.1 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Moved to Plone collective: https://github.com/collective/Products.Ienablesettrace
 
 
 1.0 (2010-05-30)

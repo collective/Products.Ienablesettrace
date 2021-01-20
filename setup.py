@@ -23,7 +23,7 @@ setup(
     keywords="",
     author="Mark van Lent",
     author_email="m.van.lent@zestsoftware.nl",
-    url="http://github.com/markvl/Products.Ienablesettrace",
+    url="http://github.com/collective/Products.Ienablesettrace",
     license="ZPL 2.1",
     packages=find_packages(exclude=["ez_setup"]),
     namespace_packages=["Products"],
